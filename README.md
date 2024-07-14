@@ -42,8 +42,11 @@ docker run hello-world
 ```
 
 ### NeoVim(AstroNvim)
-これ見て設定してみる  
-https://zenn.dev/chot/articles/72bc7dfbec3b33
+linuxでnvim最新DL方法参考  
+https://qiita.com/ksh-fthr/items/48dcc42c7a805320b49a  
+AstroNvim  
+https://docs.astronvim.com/
+Windows環境にNerd-fontsを入れてcmderに適用して、AstroNvimのアイコンが表示されるか確認  
 
 ### cmder
 settings -> Startup -> Tasks
