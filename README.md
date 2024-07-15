@@ -46,7 +46,7 @@ linuxでnvim最新DL方法参考
 https://qiita.com/ksh-fthr/items/48dcc42c7a805320b49a  
 AstroNvim  
 https://docs.astronvim.com/
-Windows環境にNerd-fontsを入れてcmderに適用して、AstroNvimのアイコンが表示されるか確認  
+インストール後はAstroNvimのホーム画面(`nvim`実行)で`:LspInstall <Language>`や`:TSInstall <Language>`でLanguage ServerやLanguage Parserの設定を行う。
 
 ### cmder
 settings -> Startup -> Tasks
