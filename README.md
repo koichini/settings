@@ -64,6 +64,9 @@ settings -> Startup -> Tasks
   General
 - Choose your startup tasl でデフォルトのタスクを選択する
 
+# Nerd Fonts
+FiraCode Nerd Font
+
 ## 参考にしたもの
 
 [Windows ユーザーにささぐ、WSL2 を利用した（ちょっと便利な）Linux 開発環境作成](https://sqripts.com/2023/07/18/57951/)
