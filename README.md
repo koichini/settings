@@ -53,7 +53,10 @@ Ubuntu は場合によっては vim や nvim のバージョンを上げる必�
 https://qiita.com/ksh-fthr/items/48dcc42c7a805320b49a  
 AstroNvim  
 https://docs.astronvim.com/
-インストール後は AstroNvim のホーム画面(`nvim`実行)で`:LspInstall <Language>`や`:TSInstall <Language>`で Language Server や Language Parser の設定を行う。
+インストール後は AstroNvim のホーム画面(`nvim`実行)で`:LspInstall <Language>`や`:TSInstall <Language>`で Language Server や Language Parser の設定を行う。  
+#### repgrep
+live_grepの利用のためにインストールが必要
+https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation
 
 ### cmder
 
